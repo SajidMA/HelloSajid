@@ -4,7 +4,7 @@
 Shows "Hello from Sajid!" on a colored background and a button to change the color of the text.
 
 ### App Walk-though
-<img src="https://recordit.co/E6UXf5MCkD" width=200><br>
+<img src="http://g.recordit.co/9jAiQlvI6p.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
